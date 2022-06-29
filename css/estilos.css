@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: azure;
+}
+.tierra{
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+}   
+.tierra1{
+    color: blue;
+}
+.tierra2{
+    color: green;
+}
+.marte{
+    color: orange;
+    display: flex;
+    justify-content: center; 
+}
+.marte2{
+    color: orange;
+}
+.marte3{
+    color: lightsalmon;
+}
